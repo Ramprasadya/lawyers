@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("https://www.chrislatta.org/images/graphics/backgrounds/solid-backgrounds-teal-008080-4096x2160-TV4K.png?v=20171211195613");
+    background-repeat: no-repeat;
+  background-size: 100% 90%;
+}
+.main_li{
+    text-decoration: none;
+color: white;
+padding: 8rem;
+margin-top: 3rem;
+}
+ul li{
+    
+display: inline;
+margin: 12px 10px;
+}
+ul  li  a{
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover{
+    cursor: pointer;
+}
+ul{
+    margin-left: 8rem;
+margin-top: 3rem;
+}
+.right_text{
+    margin-left: 6rem;
+    background-color: rgb(244, 162, 11);
+    color: black;
+    height: 43px;
+    width: 164px;
+    display: inline-block;
+    border-radius: 9px;
+}
+.image_right{
+    margin-left: 38rem;
+    margin-top: 6rem;
+    height: 34rem;
+    width: 40rem;
+    position: static;
+}
+.text_settle{
+    color: white;
+    margin-top: 0rem;
+    position: absolute;
+    top: -5%;
+    padding: 12rem;
+    font-size: 25px;
+    margin-right: 14rem;
+}
+.paragraph_text{
+    left: 2%;
+position: absolute;
+}
+.btn_con{
+    background-color: rgb(242, 188, 12);
+height: 46px;
+width: 142px;
+border-radius: 5px;
+margin-top: 3rem;
+margin-left: 12rem;
+}
+.achieve_reward{
+    margin-top: 3rem;
+position: relative;
+margin-left: 10rem;
+}
+.headline_one{
+    top: 145px;
+    position: relative;
+    /* left: 110px; */
+}
+.para_two{
+    text-align: right;
+/* right: 136px; */
+position: relative;
+top: 65px;
+}
